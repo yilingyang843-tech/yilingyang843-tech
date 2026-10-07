@@ -19,4 +19,30 @@ I enjoy applying mathematical and computational methods to real-world problems a
 
 <!-- RESEARCH-PROJECT-SUMMARY:START -->
 
+# Research & Project Summary
+
+A collection of my undergraduate research and academic projects completed during four years of study at Wenzhou-Kean University.
+
+## Research Experience
+
+The following research projects are summarized to present their research objectives, methodologies, and my contributions. Research data, source code, manuscripts, and internal materials are not publicly available.
+
+| Research | Relevant Fields | Summary | Status and Availability |
+| --- | --- | --- | --- |
+| **Coastal Sea-Level Residual Forecasting with Dual-Expert Fusion** | Data Science, Time-Series Forecasting, Graph Neural Networks, Environmental Analytics | Developed a 24-hour coastal sea-level residual forecasting framework using multi-source oceanographic and meteorological observations. Contributed to data collection and alignment, baseline construction, graph-based temporal modeling, dual-expert fusion, ablation experiments, external evaluation, and result interpretation. | **Status:** Manuscript under revision and preparation for submission.<br>**Data:** Not publicly available.<br>**Code:** Not publicly available.<br>**Manuscript:** Not publicly available. |
+| **Continuous-Time LNN-PINNs for Time-Dependent PDEs** | Scientific Machine Learning, Applied Mathematics, Computational Science, Fluid Dynamics | Developed an LNN-PINN framework that integrates the continuous-time hidden-state dynamics of Liquid Neural Networks with the physical constraints of Physics-Informed Neural Networks. Evaluated the model on time-dependent PDEs and examined prediction accuracy, long-term error evolution, and stability under initial-condition perturbations. | **Status:** Research completed.<br>**Data:** Not publicly available.<br>**Code:** Not publicly available.<br>**Proposal and report:** Not publicly available. |
+| **Generative AI Use and Acceptance in Higher Education** | Data Science, Statistics, Educational Analytics, Social Data Analysis | Investigated university students’ use and acceptance of generative AI tools and their relationships with perceived learning benefits, independent learning, dependence risk, and academic performance. Led questionnaire design, data processing, fuzzy evaluation, regression analysis, visualization, and interpretation of student and faculty responses. | **Status:** Research project completed.<br>**Survey data:** Not publicly available.<br>**Code:** Not publicly available.<br>**Interview records:** Not publicly available. |
+
+## Project Experience
+
+| Project | Relevant Fields | Materials |
+| --- | --- | --- |
+| **Adaptive Federated Graph Learning for Diabetes Classification** | Data Science, Biostatistics, Machine Learning, Healthcare Analytics | **[Code](./Adaptive%20Federated%20Graph%20Learning%20for%20Diabetes%20Classification/Adaptive%20Federated%20Graph%20Learning.py):** Python implementation of federated graph learning and model comparison.<br>**[Report](./Adaptive%20Federated%20Graph%20Learning%20for%20Diabetes%20Classification/Adaptive%20Federated%20Graph%20Learning%20Report.pdf):** Methodology, experiments, results, and limitations. |
+| **Behavioral Factors and Depressive Symptoms** | Statistics, Biostatistics, Data Science, Public Health | **[Code](./Behavioral%20Factors%20and%20Depressive%20Symptoms%20Studies/nhanes_analysis.R):** R implementation of NHANES data processing, statistical tests, multiple regression, Random Forest, and XGBoost.<br>**[Report](./Behavioral%20Factors%20and%20Depressive%20Symptoms%20Studies/Depress.pptx):** Research background, data sources, statistical methods, and findings. |
+| **Credit Card Customer Churn Prediction** | Data Science, Statistics, Machine Learning, Financial Analytics | **[Code](./Credit%20Card%20Customer%20Churn%20Prediction/Credit%20Card%20Customer%20Churn%20Prediction.py):** Python implementation of data preprocessing, SMOTE, SVM, Random Forest, KELM, and QChOA optimization.<br>**[Report](./Credit%20Card%20Customer%20Churn%20Prediction/Credit_Card_Customer_Churn_Prediction.pdf):** Model methodology, parameter optimization, performance evaluation, and limitations. |
+| **Elliptic Curve Point Counts over Finite Fields** | Computational Mathematics, Number Theory, Scientific Computing | **[Code](./Elliptic%20Curve%20Point%20Counts%20over%20Finite%20Fields/Project.py):** Python implementation of direct enumeration and Legendre-symbol point-counting methods.<br>**[Report](./Elliptic%20Curve%20Point%20Counts%20over%20Finite%20Fields/Number%20Theory.pdf):** Mathematical derivation, Frobenius trace analysis, computational comparison, and results. |
+| **Temperature Forecasting for Wenzhou-Kean University** | Data Science, Statistics, Time-Series Forecasting, Environmental Analytics | **[Code](./Temperature%20Forecasting%20for%20Wenzhou-Kean%20University/WKU_Temperature_Forcasting.ipynb):** Jupyter Notebook for weather-data processing, feature construction, Random Forest prediction, and Holt-Winters forecasting.<br>**[Report](./Temperature%20Forecasting%20for%20Wenzhou-Kean%20University/WKU_Temperature_Report.pdf):** Data preparation, forecasting methodology, model integration, results, and limitations. |
+| **Interactive Function Visualization and Numerical Analysis** | Data Science, Applied Mathematics, Data Visualization, Scientific Computing | **[Code](./Interactive%20Function%20Visualization%20and%20Numerical%20Analysis/Visualization.py):** Python application for interactively exploring linear, quadratic, and sine functions, including parameter adjustment, key-point visualization, derivative and function-property analysis, zooming, and point selection.<br>**Application:** Runs locally at [http://127.0.0.1:8050/](http://127.0.0.1:8050/) after executing the Python code. |
+
+
 <!-- RESEARCH-PROJECT-SUMMARY:END -->
