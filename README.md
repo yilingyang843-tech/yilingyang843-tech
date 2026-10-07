@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <img src="YOUR_WKU_LOGO_URL" width="120" alt="Wenzhou-Kean University Logo"/>
+</p>
 
-<!--
-**yilingyang843-tech/yilingyang843-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Chenyang Yang 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🎓 Student at <b>Wenzhou-Kean University</b><br>
+  📚 Major in <b>Applied Mathematics</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am an Applied Mathematics student at Wenzhou-Kean University with a strong interest in mathematics, data science, biostatistics and machine learning.
+
+I enjoy applying mathematical and computational methods to real-world problems and continuously exploring new topics in data analysis, artificial intelligence, and scientific computing.
+
+### Interests
+
+- Applied Mathematics
+- Data Science
+- Machine Learning
+- Deep Learning
+- Scientific Computing
+- Mathematical Modeling
