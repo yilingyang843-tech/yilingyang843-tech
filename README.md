@@ -15,8 +15,6 @@ I am an Applied Mathematics student at Wenzhou-Kean University with a strong int
 
 I enjoy applying mathematical and computational methods to real-world problems and continuously exploring new topics in data analysis, artificial intelligence, and scientific computing.
 
-## My Project
-
 <!-- RESEARCH-PROJECT-SUMMARY:START -->
 
 # Research & Project Summary
