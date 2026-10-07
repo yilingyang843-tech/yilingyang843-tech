@@ -17,7 +17,6 @@ I enjoy applying mathematical and computational methods to real-world problems a
 
 ## My Project
 
-<!-- REPO1-README:START -->
+<!-- RESEARCH-PROJECT-SUMMARY:START -->
 
-
-<!-- REPO1-README:END -->
+<!-- RESEARCH-PROJECT-SUMMARY:END -->
