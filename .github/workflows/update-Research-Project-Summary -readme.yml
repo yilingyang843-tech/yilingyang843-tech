@@ -1,9 +1,9 @@
 name: Update Research Project Summary README
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: {}
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
 
 permissions:
   contents: write
@@ -19,8 +19,8 @@ jobs:
       - name: Download Research Project Summary README
         run: |
           curl -L \
-          https://raw.githubusercontent.com/yilingyang843-tech/Research-Project-Summary/main/README.md \
-          -o research_project_summary_readme.md
+            https://raw.githubusercontent.com/yilingyang843-tech/Research-Project-Summary/main/README.md \
+            -o research_project_summary_readme.md
 
       - name: Insert Research Project Summary README into profile README
         run: |
