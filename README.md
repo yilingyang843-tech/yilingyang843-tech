@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="kean.png" width="120" alt="Wenzhou-Kean University Logo">
+  <img src="kean.png" width="220" alt="Wenzhou-Kean University Logo">
 </p>
 
-<h1 align="center">Hi, I'm Chenyang Yang 👋</h1>
+<h1 align="center">Hi, I'm Yiling Yang 👋</h1>
 
 <p align="center">
   🎓 Student at <b>Wenzhou-Kean University</b><br>
