@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="kean.png" width="220" alt="Wenzhou-Kean University Logo">
+  <img src="kean.png" width="520" alt="Wenzhou-Kean University Logo">
 </p>
 
 <h1 align="center">Hi, I'm Yiling Yang 👋</h1>
