@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/wku-logo.png" width="120" alt="Wenzhou-Kean University Logo">
+  <img src="kean.png" width="120" alt="Wenzhou-Kean University Logo">
 </p>
 
 <h1 align="center">Hi, I'm Chenyang Yang 👋</h1>
