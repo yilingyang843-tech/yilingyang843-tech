@@ -1,1 +1,65 @@
+name: Update Research Project Summary README
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Download Research Project Summary README
+        run: |
+          curl -L \
+          https://raw.githubusercontent.com/yilingyang843-tech/Research-Project-Summary/main/README.md \
+          -o research_project_summary_readme.md
+
+      - name: Insert Research Project Summary README into profile README
+        run: |
+          python <<'PY'
+          from pathlib import Path
+
+          profile_path = Path("README.md")
+          project_path = Path("research_project_summary_readme.md")
+
+          profile = profile_path.read_text(encoding="utf-8")
+          project = project_path.read_text(encoding="utf-8")
+
+          start_marker = "<!-- RESEARCH-PROJECT-SUMMARY:START -->"
+          end_marker = "<!-- RESEARCH-PROJECT-SUMMARY:END -->"
+
+          start = profile.index(start_marker) + len(start_marker)
+          end = profile.index(end_marker)
+
+          new_profile = (
+              profile[:start]
+              + "\n\n"
+              + project
+              + "\n\n"
+              + profile[end:]
+          )
+
+          profile_path.write_text(new_profile, encoding="utf-8")
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update Research Project Summary README"
+            git push
+          fi
