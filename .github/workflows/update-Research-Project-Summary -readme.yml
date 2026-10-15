@@ -14,7 +14,7 @@
 
 #     steps:
 #       - name: Checkout profile repository
-#         uses: actions/checkout@v4
+#         uses: actions/checkout@v5
 
 #       - name: Download Research Project Summary README
 #         run: |
