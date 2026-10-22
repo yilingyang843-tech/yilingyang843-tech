@@ -43,4 +43,12 @@ The following research projects are summarized to present their research objecti
 | **Interactive Function Visualization and Numerical Analysis** | Data Science, Applied Mathematics, Data Visualization, Scientific Computing | **[Code](https://github.com/yilingyang843-tech/Research-Project-Summary/blob/main/Interactive%20Function%20Visualization%20and%20Numerical%20Analysis/Visualization.py):** Python application for interactively exploring linear, quadratic, and sine functions, including parameter adjustment, key-point visualization, derivative and function-property analysis, zooming, and point selection.<br>**Application:** Runs locally at [http://127.0.0.1:8050/](http://127.0.0.1:8050/) after executing the Python code. |
 
 
+## Poster Presentation
+
+| Title | Relevant Fields | Poster |
+|---|---|---|
+| An Unsupervised Adaptive PINN-NTK Framework for Transport Phenomena in Hybrid Nanofluid Flow | Physics-Informed Neural Networks (PINNs), Neural Tangent Kernel (NTK), Computational Fluid Dynamics, Heat Transfer, Scientific Machine Learning | [View Poster](https://github.com/yilingyang843-tech/Research-Project-Summary/blob/main/Research%20Day%20Poster/YilingYang_poster.pdf)|
+
+
+
 <!-- RESEARCH-PROJECT-SUMMARY:END -->
